@@ -19,7 +19,7 @@ This repository contains the four projects completed as part of the **DecodeLabs
 
 | | |
 |---|---|
-| **Raw input** | `Dataset for Data Analytics .csv` |
+| **Raw input** | `Dataset for Data Analytics.csv` |
 | **Cleaned output** (used by Projects 2–4) | `Cleaned_Dataset.xlsx` |
 | **Size** | 1,200 rows × 14 columns |
 | **Time span** | January 2023 – June 2025 |
